@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\WindowsFormsExercicio2\WindowsFormsExercicio2\bin\Debug\WindowsFormsExercicio2.exe.config
+C:\Users\Aluno\source\repos\WindowsFormsExercicio2\WindowsFormsExercicio2\bin\Debug\WindowsFormsExercicio2.exe
+C:\Users\Aluno\source\repos\WindowsFormsExercicio2\WindowsFormsExercicio2\bin\Debug\WindowsFormsExercicio2.pdb
+C:\Users\Aluno\source\repos\WindowsFormsExercicio2\WindowsFormsExercicio2\obj\Debug\WindowsFormsExercicio2.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\WindowsFormsExercicio2\WindowsFormsExercicio2\obj\Debug\WindowsFormsExercicio2.Form1.resources
+C:\Users\Aluno\source\repos\WindowsFormsExercicio2\WindowsFormsExercicio2\obj\Debug\WindowsFormsExercicio2.Properties.Resources.resources
+C:\Users\Aluno\source\repos\WindowsFormsExercicio2\WindowsFormsExercicio2\obj\Debug\WindowsFormsExercicio2.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\WindowsFormsExercicio2\WindowsFormsExercicio2\obj\Debug\WindowsFormsExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\WindowsFormsExercicio2\WindowsFormsExercicio2\obj\Debug\WindowsFormsExercicio2.exe
+C:\Users\Aluno\source\repos\WindowsFormsExercicio2\WindowsFormsExercicio2\obj\Debug\WindowsFormsExercicio2.pdb
